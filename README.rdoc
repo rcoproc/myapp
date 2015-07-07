@@ -1,4 +1,4 @@
-== README RCO ==
+== README BY RCO ==
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -13,6 +13,7 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
+  rake db:create
 
 * Database initialization
 
